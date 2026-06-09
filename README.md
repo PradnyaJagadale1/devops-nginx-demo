@@ -16,3 +16,4 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 This is web page
+This is nginx basic setup
